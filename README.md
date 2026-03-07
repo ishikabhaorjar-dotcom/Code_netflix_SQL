@@ -284,7 +284,7 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 This project is part of showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 ### Stay Updated and Join the Community
-**Email**: [Connect with me professionally](ishikabhaorjar@gmail.com)
-**LinkedIn**: [Connect with me professionally](www.linkedin.com/in/ishika-bhaoorjar-04267a202)
+**Email**: [Connect with me professionally :ishikabhaorjar@gmail.com
+**LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/ishika-bhaoorjar-04267a202)
 
 Thank you for your support, and I look forward to connecting with you!
