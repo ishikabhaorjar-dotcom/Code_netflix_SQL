@@ -1,5 +1,5 @@
 # CODE_NETFLIX_SQL
-[Netflix](images.jpg)
+![Netflix](https://github.com/ishikabhaorjar-dotcom/Code_netflix_SQL/blob/main/images.jpg)
 
 Project Overview:
 This project focuses on analyzing Netflix dataset using Pure SQL. The objective of the project is to explore and understand the data through different analytical queries. The dataset contains information about Netflix movies and TV shows such as title, type, director, cast, country, release year, rating, and duration.
